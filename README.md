@@ -1,2 +1,2 @@
-# 3D-Arquitech-v1
-Gazing through GSAP, Motion & R3F vacinities.
+# 3D-Arquitech-v1 [WIP]
+Gazing through GSAP, Motion & R3F vicinities.
